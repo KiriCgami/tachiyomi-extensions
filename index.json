@@ -28006,7 +28006,7 @@
     ]
   },
   {
-    "name": "Tachiyomi: Siyahmelek",
+    "name": "Tachiyomi: Grimelek",
     "pkg": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
     "apk": "tachiyomi-tr.siyahmelek-v1.4.34.apk",
     "lang": "tr",
@@ -28017,10 +28017,10 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Siyahmelek",
+        "name": "Grimelek",
         "lang": "tr",
         "id": "6419959498055001014",
-        "baseUrl": "https://siyahmelek.net",
+        "baseUrl": "https://grimelek.net/",
         "versionId": 1,
         "hasCloudflare": 1
       }
